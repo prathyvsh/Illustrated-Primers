@@ -11,6 +11,10 @@ This is a catalog of books that makes heavy use of images to communicate scienti
 
 Felix Klein, a great geometer of the nineteenth century, rediscovered an idea from Indian mythology in mathematics: the heaven of Indra in which the whole Universe was mirrored in each pearl in a net of pearls. Practically impossible to represent by hand, this idea barely existed outside the imagination, until the 1980s when the authors embarked on the first computer investigation of Klein's vision. The book explores the patterns created by iterating conformal maps of the complex plane called Möbius transformations, and their connections with symmetry and self-similarity. It includes step-by-step instructions for writing computer programs for beginners to generate the images.
 
+Sample content:
+
+![Sample content of Indra's Pearls](https://cl.ly/bb1be58b021d/Image%202019-10-11%20at%209.34.06%20PM.png)
+
 ## [Visual Complex Analysis](https://amzn.to/2M66DzY)
 ### Tristan Needham (1997)
 
