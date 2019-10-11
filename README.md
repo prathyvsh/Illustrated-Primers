@@ -28,3 +28,6 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 ![Cover of Visual Complex Functions](http://www.mathe.tu-freiberg.de/files/personal/10/vcf3.png)
 
 This book provides a systematic introduction to functions of one complex variable. It uses [phase potraits](https://wikipedia.org/phase_portrait) to visualize functions as images on their domains. The book requires no prerequisites except some basic knowledge of real calculus and plane geometry. It is self-contained and covers all the main topics usually treated in a first course on complex analysis. With separate chapters on various construction principles, conformal mappings and Riemann surfaces it goes somewhat beyond a standard programme and leads the reader to more advanced themes.
+
+## Books under consideration
+A Visual Introduction to Differential Forms and Calculus on Manifolds - J.P. Fortney
