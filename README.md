@@ -31,3 +31,4 @@ This book provides a systematic introduction to functions of one complex variabl
 
 ## Books under consideration
 A Visual Introduction to Differential Forms and Calculus on Manifolds - J.P. Fortney
+Div, Grad, Curl, and All that — H. M Schey
