@@ -15,15 +15,7 @@ Felix Klein, a great geometer of the nineteenth century, rediscovered an idea fr
 
 ![Sample content of Indra's Pearls](https://cl.ly/bb1be58b021d/Image%202019-10-11%20at%209.34.06%20PM.png)
 
-## [Visual Complex Analysis](https://amzn.to/2M66DzY)
-### Tristan Needham (1997)
-
-![Cover of Visual Complex Analysis](https://images-na.ssl-images-amazon.com/images/I/51VluVCvfTL._SX339_BO1,204,203,200_.jpg)
-
-A book on complex analysis that uses geometry instead of calculation as a means of explanation. It has lots of diagrams aimed at undergraduate students in mathematics, physics, and engineering. The book has intuitive explanations supported with hundreds of geometric diagrams. The book doesn't require advanced prerequisites and has a user-friendly prose style will help students to master the subject.
-
-#### Sample content: 
-![Sample content of Visual Complex Analysis](https://66.media.tumblr.com/77238508fab4bde125705549a0015343/tumblr_inline_p7numaNdIW1qdxrxg_540.png)
+---
 
 ## [Visual Complex Functions: An Introduction with Phase Portraits](https://amzn.to/35t2VYQ)
 ### Elias Wegert (2012)
@@ -34,6 +26,31 @@ This book provides a systematic introduction to functions of one complex variabl
 
 #### Sample content:
 ![Sample content of Visual Complex Functions](https://cl.ly/33469d2fdc66/Image%202019-10-13%20at%206.42.04%20PM.png)
+
+---
+
+## [Visual Group Theory](https://amzn.to/31aqWAN)
+![Cover of Visual Group Theory](https://images-na.ssl-images-amazon.com/images/I/41lZQTsMLvL._SX356_BO1,204,203,200_.jpg)
+### Nathan Carter (2009)
+
+Visual Group Theory assumes only a high school mathematics background and covers a typical undergraduate course in group theory from a thoroughly visual perspective. The more than 300 illustrations in Visual Group Theory bring groups, subgroups, homomorphisms, products, and quotients into clear view.
+
+#### Sample content:
+![Sample contents of Visual Group Theory](http://web.bentley.edu/empl/c/ncarter/vgt/images/z12fhthm.png)
+
+---
+
+## [Visual Complex Analysis](https://amzn.to/2M66DzY)
+### Tristan Needham (1997)
+
+![Cover of Visual Complex Analysis](https://images-na.ssl-images-amazon.com/images/I/51VluVCvfTL._SX339_BO1,204,203,200_.jpg)
+
+A book on complex analysis that uses geometry instead of calculation as a means of explanation. It has lots of diagrams aimed at undergraduate students in mathematics, physics, and engineering. The book has intuitive explanations supported with hundreds of geometric diagrams. The book doesn't require advanced prerequisites and has a user-friendly prose style will help students to master the subject.
+
+#### Sample content: 
+![Sample content of Visual Complex Analysis](https://66.media.tumblr.com/77238508fab4bde125705549a0015343/tumblr_inline_p7numaNdIW1qdxrxg_540.png)
+
+---
 
 ## Books under consideration
 A Visual Introduction to Differential Forms and Calculus on Manifolds - J.P. Fortney
