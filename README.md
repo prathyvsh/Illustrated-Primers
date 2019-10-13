@@ -52,7 +52,46 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 
 ---
 
+## Logicomix
+
+
+---
+
+# Physics
+
+## Dynamics: The Geometry of Behaviour
+## Suspended in Language
+
+---
+
+# Biology
+
+## The Machinery of Life
+---
+## Smart Biology Text Book
+---
+## Introduction to Evolutionary Psychology
+---
+## Clan Apis
+---
+
+# Communication
+
+## Understanding Comics
+---
+## Unflattening
+---
+
+# Computer Science
+
+## The thrilling adventures of Charles Babbage and Ada Lovelace
+
+---
+
 ## Books under consideration
 - A Visual Introduction to Differential Forms and Calculus on Manifolds - J.P. Fortney
 - Div, Grad, Curl, and All that — H. M Schey
 - Concepts & Images — Arthur L. Loeb
+- Cartoon History of the World — Larry Gonick
+- Action Philosophers! —  Ryan Dunlavey, Fred Van Lente
+- Comics and Sequential Art - Will Eisner
