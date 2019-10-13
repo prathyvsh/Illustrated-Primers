@@ -94,4 +94,4 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 - Concepts & Images — Arthur L. Loeb
 - Cartoon History of the World — Larry Gonick
 - Action Philosophers! —  Ryan Dunlavey, Fred Van Lente
-- Comics and Sequential Art - Will Eisner
+- Comics and Sequential Art — Will Eisner
