@@ -95,3 +95,4 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 - Cartoon History of the World — Larry Gonick
 - Action Philosophers! —  Ryan Dunlavey, Fred Van Lente
 - Comics and Sequential Art — Will Eisner
+- Calculus: The Early Transcendentals — James Stewart
