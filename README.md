@@ -58,6 +58,13 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 
 ## Proofs without words - Exercises in visual thinking
 
+## The Shape of Space
+
+## Galois Dream
+
+## The Symmetries of Things - John Conway
+
+## From Geometry to Topology
 
 ---
 
@@ -101,3 +108,9 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 - Calculus: The Early Transcendentals — James Stewart
 - The Ashley Book of Knots — Clifford W. Ashley
 - Aspects of Topology – C.O. Christenson and W.L. Voxman
+- Geometry and the Imagination — David Hilbert and Stephan Cohn-Vossen
+- The Essence of Chaos — Lorentz
+- Synchronization - Arkady Pikovsky
+- The Wild World of Four Manifolds
+- Parallel Coordinates - Alfred Inselberg
+- A Panoramic View of Riemannian Geometry
