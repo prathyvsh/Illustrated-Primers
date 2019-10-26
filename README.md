@@ -54,6 +54,8 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 
 ## Logicomix
 
+## A Topological Picturebook by George K. Francis
+
 
 ---
 
@@ -61,7 +63,6 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 
 ## Dynamics: The Geometry of Behaviour
 ## Suspended in Language
-
 ---
 
 # Biology
