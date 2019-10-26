@@ -56,6 +56,8 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 
 ## A Topological Picturebook by George K. Francis
 
+## Proofs without words - Exercises in visual thinking
+
 
 ---
 
@@ -97,3 +99,5 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 - Action Philosophers! —  Ryan Dunlavey, Fred Van Lente
 - Comics and Sequential Art — Will Eisner
 - Calculus: The Early Transcendentals — James Stewart
+- The Ashley Book of Knots — Clifford W. Ashley
+- Aspects of Topology – C.O. Christenson and W.L. Voxman
