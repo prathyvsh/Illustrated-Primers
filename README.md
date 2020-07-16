@@ -66,6 +66,9 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 
 ## From Geometry to Topology
 
+## [Surfaces](https://www.goodreads.com/book/show/13726211-surfaces)
+H. J. Griffiths
+
 ---
 
 # Physics
