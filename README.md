@@ -117,3 +117,8 @@ H. J. Griffiths
 - The Wild World of Four Manifolds
 - Parallel Coordinates - Alfred Inselberg
 - A Panoramic View of Riemannian Geometry
+- Gravitation
+- Navigating Metabolism
+- The Geometry of Biological Time
+- Introduction to The Theory of Complex Systems
+- A New Kind of Science
