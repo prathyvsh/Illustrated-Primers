@@ -60,7 +60,12 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 
 A graphic novel on the life of mathemaicians whos work defined the 20th century breakthroughs in mathematical thinking, a lot of whch lead to the creation of computers. Focuses on the life of Russell as the protagonist and beautiful sketches out the inner turmoils he had to endure to arrive at Principia Mathematica.
 
-## A Topological Picturebook by George K. Francis
+## A Topological Picturebook
+### George K. Francis
+
+![Cover of A Topological Picturebook](./img/topology-picturebook-cover.jpg)
+![Sample from A Topological Picturebook](./img/topology-picturebook-sample1.jpg)
+![Sample from A Topological Picturebook](./img/topology-picturebook-sample2.jpg)
 
 ## Proofs without words - Exercises in visual thinking
 
