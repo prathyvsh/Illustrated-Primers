@@ -100,27 +100,32 @@ A collection of proofs that uses diagrams for illustration.
 
 # Physics
 
-## Dynamics: The Geometry of Behaviour
-## Suspended in Language
+## [Dynamics: The Geometry of Behaviour](https://amzn.to/39cuQi0)
+### Ralph Abraham, Christopher Shaw
+
+![Cover of Dynamics](./img/dynamics-cover.jpg)
+
+## [Suspended in Language](https://amzn.to/3hizvln)
+
 ---
 
 # Biology
 
-## The Machinery of Life
----
+## [The Machinery of Life](https://amzn.to/2ZKy2OP)
+
+
 ## Smart Biology Text Book
----
+
 ## Introduction to Evolutionary Psychology
----
+
 ## Clan Apis
----
+
 
 # Communication
 
 ## Understanding Comics
----
+
 ## Unflattening
----
 
 # Computer Science
 
