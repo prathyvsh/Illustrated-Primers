@@ -78,10 +78,11 @@ A collection of proofs that uses diagrams for illustration.
 
 ![Cover of The Shape of Space](./img/the-shape-of-space-cover.jpg)
 
-## Galois Dream
+## [Galois Dream](https://amzn.to/2CTcnLg)
+### Michio Kuga
 
 ## [The Symmetries of Things](https://amzn.to/2CTcnLg)
-### John Conway,  Heidi Burgiel , Chaim Goodman-Strauss
+### John Conway, Heidi Burgiel, Chaim Goodman-Strauss
 
 ![Cover of The Symmetries of Things](./img/the-symmetries-of-things-cover.jpg)
 
