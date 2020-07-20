@@ -60,14 +60,18 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 
 A graphic novel on the life of mathemaicians whos work defined the 20th century breakthroughs in mathematical thinking, a lot of whch lead to the creation of computers. Focuses on the life of Russell as the protagonist and beautiful sketches out the inner turmoils he had to endure to arrive at Principia Mathematica.
 
-## A Topological Picturebook
+## [A Topological Picturebook](https://amzn.to/2Clv1fd)
 ### George K. Francis
 
 ![Cover of A Topological Picturebook](./img/topological-picturebook-cover.jpg)
 ![Sample from A Topological Picturebook](./img/topological-picturebook-sample1.jpg)
 ![Sample from A Topological Picturebook](./img/topological-picturebook-sample2.jpg)
 
-## Proofs without words - Exercises in visual thinking
+## [Proofs without words - Exercises in visual thinking](https://amzn.to/2OEKqth)
+
+![Cover of Proofs without words](./img/proofs-without-words.jpg)
+
+A collection of proofs that uses diagrams for illustration.
 
 ## The Shape of Space
 
