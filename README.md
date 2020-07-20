@@ -52,7 +52,13 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 
 ---
 
-## Logicomix
+## [Logicomix](https://amzn.to/3jltczm)
+### Apostolos Doxiadis, Christos Papadimitriou
+
+![Sample image from Logicomix](./img/logicomix1.jpg)
+![Sample image from Logicomix](./img/logicomix2.jpg)
+
+A graphic novel on the life of mathemaicians whos work defined the 20th century breakthroughs in mathematical thinking, a lot of whch lead to the creation of computers. Focuses on the life of Russell as the protagonist and beautiful sketches out the inner turmoils he had to endure to arrive at Principia Mathematica.
 
 ## A Topological Picturebook by George K. Francis
 
