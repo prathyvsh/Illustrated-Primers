@@ -73,16 +73,27 @@ A graphic novel on the life of mathemaicians whos work defined the 20th century 
 
 A collection of proofs that uses diagrams for illustration.
 
-## The Shape of Space
+## [The Shape of Space](https://amzn.to/2E592cZ)
+### Jeffrey Weeks
+
+![Cover of The Shape of Space](./img/the-shape-of-space-cover.jpg)
 
 ## Galois Dream
 
-## The Symmetries of Things - John Conway
+## [The Symmetries of Things](https://amzn.to/2CTcnLg)
+### John Conway,  Heidi Burgiel , Chaim Goodman-Strauss
 
-## From Geometry to Topology
+![Cover of The Symmetries of Things](./img/the-symmetries-of-things-cover.jpg)
 
-## [Surfaces](https://www.goodreads.com/book/show/13726211-surfaces)
-H. J. Griffiths
+## [From Geometry to Topology](https://amzn.to/2WGmuKJ)
+### H. Graham Flegg
+
+![Cover of From Geometry to Topology](./img/from-geometry-to-topology-cover.jpg)
+
+## [Surfaces](https://amzn.to/2OHSWb3)
+### H. B. Griffiths
+
+![Cover of Surfaces](./img/surfaces-cover.jpg)
 
 ---
 
