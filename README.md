@@ -69,7 +69,7 @@ A graphic novel on the life of mathemaicians whos work defined the 20th century 
 
 ## [Proofs without words - Exercises in visual thinking](https://amzn.to/2OEKqth)
 
-![Cover of Proofs without words](./img/proofs-without-words.jpg)
+![Cover of Proofs without words](./img/proofs-without-words-cover.jpg)
 
 A collection of proofs that uses diagrams for illustration.
 
