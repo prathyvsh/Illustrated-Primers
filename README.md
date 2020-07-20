@@ -63,9 +63,9 @@ A graphic novel on the life of mathemaicians whos work defined the 20th century 
 ## A Topological Picturebook
 ### George K. Francis
 
-![Cover of A Topological Picturebook](./img/topology-picturebook-cover.jpg)
-![Sample from A Topological Picturebook](./img/topology-picturebook-sample1.jpg)
-![Sample from A Topological Picturebook](./img/topology-picturebook-sample2.jpg)
+![Cover of A Topological Picturebook](./img/topological-picturebook-cover.jpg)
+![Sample from A Topological Picturebook](./img/topological-picturebook-sample1.jpg)
+![Sample from A Topological Picturebook](./img/topological-picturebook-sample2.jpg)
 
 ## Proofs without words - Exercises in visual thinking
 
