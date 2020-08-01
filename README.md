@@ -155,3 +155,5 @@ A collection of proofs that uses diagrams for illustration.
 - Introduction to The Theory of Complex Systems
 - A New Kind of Science
 - CryptoSchool
+- An Illustrated Theory of Numbers
+- Turbulent Mirror
