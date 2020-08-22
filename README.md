@@ -107,6 +107,8 @@ A collection of proofs that uses diagrams for illustration.
 
 ## [Suspended in Language](https://amzn.to/3hizvln)
 
+## [The Particle Odyssery: A journey to the heart of matter](https://amzn.to/3laBqLG)
+
 ---
 
 # Biology
