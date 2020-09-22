@@ -159,3 +159,4 @@ A collection of proofs that uses diagrams for illustration.
 - CryptoSchool
 - An Illustrated Theory of Numbers
 - Turbulent Mirror
+- Beyond the Third Dimension - Thomas Banchoff
