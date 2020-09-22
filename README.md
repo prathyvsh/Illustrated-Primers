@@ -122,7 +122,6 @@ A collection of proofs that uses diagrams for illustration.
 
 ## Clan Apis
 
-
 # Communication
 
 ## Understanding Comics
@@ -160,3 +159,4 @@ A collection of proofs that uses diagrams for illustration.
 - An Illustrated Theory of Numbers
 - Turbulent Mirror
 - Beyond the Third Dimension - Thomas Banchoff
+- Symmetry, Shape, and Space - Kinsey and Moore
