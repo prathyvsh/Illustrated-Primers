@@ -160,3 +160,4 @@ A collection of proofs that uses diagrams for illustration.
 - Turbulent Mirror
 - Beyond the Third Dimension - Thomas Banchoff
 - Symmetry, Shape, and Space - Kinsey and Moore
+- Shapes, Space, and Symmetry – Alan Holden
