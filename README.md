@@ -161,3 +161,6 @@ A collection of proofs that uses diagrams for illustration.
 - Beyond the Third Dimension - Thomas Banchoff
 - Symmetry, Shape, and Space - Kinsey and Moore
 - Shapes, Space, and Symmetry – Alan Holden
+- [[https://www.amazon.com/gp/product/0262014696][Networks of the Brain]]
+- [[https://www.amazon.com/gp/product/0199604878][Flow: Nature’s Patterns — A Tapestry in Three Parts]]
+- [[https://www.amazon.com/gp/product/0300110391][Shadows of Reality: The Fourth Dimension in Relativity, Cubism, and Modern Thought]]
