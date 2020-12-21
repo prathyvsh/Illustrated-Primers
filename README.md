@@ -166,3 +166,4 @@ A collection of proofs that uses diagrams for illustration.
 - [https://www.amazon.com/gp/product/0300110391](Shadows of Reality: The Fourth Dimension in Relativity, Cubism, and Modern Thought)
 - [https://amzn.to/2FxeiHj](The Geometrical Foundation of Natural Structure)
 - [https://amzn.to/3nO96Qu](A Geometrical Picturebook)
+- Mathematical Snapshots by Hugo Steinhaus
