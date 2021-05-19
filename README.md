@@ -167,3 +167,5 @@ A collection of proofs that uses diagrams for illustration.
 - [The Geometrical Foundation of Natural Structure](https://amzn.to/2FxeiHj)
 - [A Geometrical Picturebook](https://amzn.to/3nO96Qu)
 - Mathematical Snapshots by Hugo Steinhaus
+- [[http://networksciencebook.com/][Network Science]]
+Albert László Barbarási
