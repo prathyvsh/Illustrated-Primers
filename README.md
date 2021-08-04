@@ -167,5 +167,7 @@ A collection of proofs that uses diagrams for illustration.
 - [The Geometrical Foundation of Natural Structure](https://amzn.to/2FxeiHj)
 - [A Geometrical Picturebook](https://amzn.to/3nO96Qu)
 - Mathematical Snapshots by Hugo Steinhaus
-- [[http://networksciencebook.com/][Network Science]]
+- [Network Science](http://networksciencebook.com/)
 Albert László Barbarási
+- [Visual Differental Geometry and Forms](https://press.princeton.edu/books/hardcover/9780691203690/visual-differential-geometry-and-forms)
+Tristan Needham
