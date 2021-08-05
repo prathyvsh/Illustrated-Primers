@@ -155,6 +155,7 @@ A collection of proofs that uses diagrams for illustration.
 - The Geometry of Biological Time
 - Introduction to The Theory of Complex Systems
 - A New Kind of Science
+- How Surfaces Intersect in Space: An introduction to topology - J. Scott Carter
 - CryptoSchool
 - An Illustrated Theory of Numbers
 - Turbulent Mirror
