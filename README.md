@@ -152,12 +152,14 @@ A collection of proofs that uses diagrams for illustration.
 - A Panoramic View of Riemannian Geometry
 - Gravitation
 - Navigating Metabolism
+- The Universe of Conics
 - The Geometry of Biological Time
 - Introduction to The Theory of Complex Systems
 - A New Kind of Science
 - How Surfaces Intersect in Space: An introduction to topology - J. Scott Carter
 - CryptoSchool
 - An Illustrated Theory of Numbers
+- Differential Geometry of Curves and Surfaces - Manfredo Perdigão do Carmo
 - Turbulent Mirror
 - Beyond the Third Dimension - Thomas Banchoff
 - Symmetry, Shape, and Space - Kinsey and Moore
