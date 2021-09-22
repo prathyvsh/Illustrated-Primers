@@ -2,7 +2,7 @@
 
 This is a catalog of books that makes heavy use of images to communicate scientific ideas. Any pointers to resources that you think are missing from this collection is warmly welcomed. Thanks to [Bret Victor](https://twitter.com/worrydream), [Alan Kay](https://www.quora.com/profile/Alan-Kay-11), [Max Krieger](https://twitter.com/maxkriegers), [Eli Parra](https://twitter.com/elzr), [A math student](https://medium.com/@amathstudent/learning-math-on-your-own-39fe90c3536b) for unearthing these gems.
 
-I run a Twitter thread curating resources for [[https://twitter.com/prathyvsh/status/1434663132585025537][learning algebra visually]].
+I run a Twitter thread curating resources for [learning algebra visually](https://twitter.com/prathyvsh/status/1434663132585025537).
 
 # Mathematics
 
@@ -58,6 +58,7 @@ A book on complex analysis that uses geometry instead of calculation as a means 
 ### Apostolos Doxiadis, Christos Papadimitriou
 
 ![Sample image from Logicomix](./img/logicomix1.jpg)
+
 ![Sample image from Logicomix](./img/logicomix2.jpg)
 
 A graphic novel on the life of mathemaicians whos work defined the 20th century breakthroughs in mathematical thinking, a lot of whch lead to the creation of computers. Focuses on the life of Russell as the protagonist and beautiful sketches out the inner turmoils he had to endure to arrive at Principia Mathematica.
@@ -65,15 +66,19 @@ A graphic novel on the life of mathemaicians whos work defined the 20th century 
 ## [A Topological Picturebook](https://amzn.to/2Clv1fd)
 ### George K. Francis
 
+A compendium of various topological transformations illustrated with rich visuals.
+
 ![Cover of A Topological Picturebook](./img/topological-picturebook-cover.jpg)
+
 ![Sample from A Topological Picturebook](./img/topological-picturebook-sample1.jpg)
+
 ![Sample from A Topological Picturebook](./img/topological-picturebook-sample2.jpg)
 
 ## [Proofs without words - Exercises in visual thinking](https://amzn.to/2OEKqth)
 
 ![Cover of Proofs without words](./img/proofs-without-words-cover.jpg)
 
-A collection of proofs that uses diagrams for illustration.
+A collection of proofs that uses diagrammatical reasoning .
 
 ## [The Shape of Space](https://amzn.to/2E592cZ)
 ### Jeffrey Weeks
