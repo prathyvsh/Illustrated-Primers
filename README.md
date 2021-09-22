@@ -88,6 +88,8 @@ A collection of proofs that uses diagrammatical reasoning .
 ## [Galois Dream](https://amzn.to/2CTcnLg)
 ### Michio Kuga
 
+![Cover of Galois Dream](./img/galois-dream-cover.jpg)
+
 ## [The Symmetries of Things](https://amzn.to/2CTcnLg)
 ### John Conway, Heidi Burgiel, Chaim Goodman-Strauss
 
