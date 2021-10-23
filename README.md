@@ -183,3 +183,4 @@ A collection of proofs that uses diagrammatical reasoning .
 Albert László Barbarási
 - [Visual Differental Geometry and Forms](https://press.princeton.edu/books/hardcover/9780691203690/visual-differential-geometry-and-forms)
 Tristan Needham
+- [Topology of Numbers](https://pi.math.cornell.edu/~hatcher/TN/TNbook.pdf) - Hatcher
