@@ -105,6 +105,14 @@ A collection of proofs that uses diagrammatical reasoning .
 
 ![Cover of Surfaces](./img/surfaces-cover.jpg)
 
+## A Primer on Mapping Class Groups
+### Benson Farb, Dan Margalit
+Copiously illustrated with topological and geometric structures
+
+## [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com/geometry/frontmatter.html)
+### Michael P. Hitchman
+
+
 ---
 
 # Physics
