@@ -191,3 +191,7 @@ Copiously illustrated with topological and geometric structures
 Albert László Barbarási
 - [Visual Differental Geometry and Forms](https://press.princeton.edu/books/hardcover/9780691203690/visual-differential-geometry-and-forms)
 Tristan Needham
+- Geometrical Vectors
+Gabriel Weinreich
+
+Takes an alternative approach for visualizing vectors. Other books by Weinreich are also worth investigating.
