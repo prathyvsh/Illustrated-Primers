@@ -193,5 +193,7 @@ Albert László Barbarási
 Tristan Needham
 - Geometrical Vectors
 Gabriel Weinreich
+- [[https://en.wikipedia.org/wiki/The_Fourth_Dimension_(book)][The Fourth Dimension]]
+Rudy Rucker
 
 Takes an alternative approach for visualizing vectors. Other books by Weinreich are also worth investigating.
