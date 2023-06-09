@@ -22,7 +22,7 @@ Felix Klein, a great geometer of the nineteenth century, rediscovered an idea fr
 ## [Visual Complex Functions: An Introduction with Phase Portraits](https://amzn.to/35t2VYQ)
 ### Elias Wegert (2012)
 
-![Cover of Visual Complex Functions](http://www.mathe.tu-freiberg.de/files/personal/10/vcf3.png)
+![Cover of Visual Complex Functions](./visual-complex-functions.jpg)
 
 This book provides a systematic introduction to functions of one complex variable. It uses [phase potraits](https://wikipedia.org/phase_portrait) to visualize functions as images on their domains. The book requires no prerequisites except some basic knowledge of real calculus and plane geometry. It is self-contained and covers all the main topics usually treated in a first course on complex analysis. With separate chapters on various construction principles, conformal mappings and Riemann surfaces it goes somewhat beyond a standard programme and leads the reader to more advanced themes.
 
