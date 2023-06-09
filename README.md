@@ -1,6 +1,6 @@
 # Illustrated Primers
 
-This is a catalog of books that makes heavy use of images to communicate scientific ideas. Any pointers to resources that you think are missing from this collection is warmly welcomed. Thanks to [Bret Victor](https://twitter.com/worrydream), [Alan Kay](https://www.quora.com/profile/Alan-Kay-11), [Max Krieger](https://twitter.com/maxkriegers), [Eli Parra](https://twitter.com/elzr), [A math student](https://medium.com/@amathstudent/learning-math-on-your-own-39fe90c3536b) for unearthing these gems.
+This is a catalog of books that makes heavy use of images to communicate scientific ideas. Any pointers to resources that you think are missing from this collection is warmly welcomed. Thanks to [Bret Victor](https://twitter.com/worrydream), [Alan Kay](https://www.quora.com/profile/Alan-Kay-11), [Max Krieger](https://twitter.com/maxkriegers), [Eli Parra](https://twitter.com/elzr), [A math student](https://web.archive.org/web/20141016004057/https://medium.com/@amathstudent/learning-math-on-your-own-39fe90c3536b) for unearthing these gems.
 
 I run a Twitter thread curating resources for [learning algebra visually](https://twitter.com/prathyvsh/status/1434663132585025537).
 
