@@ -186,14 +186,16 @@ Copiously illustrated with topological and geometric structures
 - [Shadows of Reality: The Fourth Dimension in Relativity, Cubism, and Modern Thought](https://www.amazon.com/gp/product/0300110391)
 - [The Geometrical Foundation of Natural Structure](https://amzn.to/2FxeiHj)
 - [A Geometrical Picturebook](https://amzn.to/3nO96Qu)
-- Mathematical Snapshots by Hugo Steinhaus
-- [Network Science](http://networksciencebook.com/)
-Albert László Barbarási
-- [Visual Differental Geometry and Forms](https://press.princeton.edu/books/hardcover/9780691203690/visual-differential-geometry-and-forms)
-Tristan Needham
-- Geometrical Vectors
-Gabriel Weinreich
-- [[https://en.wikipedia.org/wiki/The_Fourth_Dimension_(book)][The Fourth Dimension]]
+- [The Dripping Faucet as a Model Chaotic System](https://twitter.com/pinkddle/status/1753282213012263200)
+- Mathematical Snapshots — Hugo Steinhaus
+  
+- [Network Science](http://networksciencebook.com/) — Albert László Barbarási
+
+- [Visual Differental Geometry and Forms](https://press.princeton.edu/books/hardcover/9780691203690/visual-differential-geometry-and-forms) — Tristan Needham
+
+- Geometrical Vectors — Gabriel Weinreich
+
+- [The Fourth Dimension](https://en.wikipedia.org/wiki/The_Fourth_Dimension_(book))
 Rudy Rucker
 
 Takes an alternative approach for visualizing vectors. Other books by Weinreich are also worth investigating.
