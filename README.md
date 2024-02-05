@@ -1,6 +1,6 @@
 # Illustrated Primers
 
-This is a catalog of books that makes heavy use of images to communicate scientific ideas. Any pointers to resources that you think are missing from this collection is warmly welcomed. Thanks to [Bret Victor](https://twitter.com/worrydream), [Alan Kay](https://www.quora.com/profile/Alan-Kay-11), [Max Krieger](https://twitter.com/maxkriegers), [Eli Parra](https://twitter.com/elzr), [A math student](https://medium.com/@amathstudent/learning-math-on-your-own-39fe90c3536b) for unearthing these gems.
+This is a catalog of books that makes heavy use of images to communicate scientific ideas. Any pointers to resources that you think are missing from this collection is warmly welcomed. Thanks to [Bret Victor](https://twitter.com/worrydream), [Alan Kay](https://www.quora.com/profile/Alan-Kay-11), [Max Krieger](https://twitter.com/maxkriegers), [Eli Parra](https://twitter.com/elzr), [A math student](https://web.archive.org/web/20141016004057/https://medium.com/@amathstudent/learning-math-on-your-own-39fe90c3536b) for unearthing these gems.
 
 I run a Twitter thread curating resources for [learning algebra visually](https://twitter.com/prathyvsh/status/1434663132585025537).
 
@@ -22,7 +22,7 @@ Felix Klein, a great geometer of the nineteenth century, rediscovered an idea fr
 ## [Visual Complex Functions: An Introduction with Phase Portraits](https://amzn.to/35t2VYQ)
 ### Elias Wegert (2012)
 
-![Cover of Visual Complex Functions](http://www.mathe.tu-freiberg.de/files/personal/10/vcf3.png)
+![Cover of Visual Complex Functions](./img/visual-complex-functions.jpg)
 
 This book provides a systematic introduction to functions of one complex variable. It uses [phase potraits](https://wikipedia.org/phase_portrait) to visualize functions as images on their domains. The book requires no prerequisites except some basic knowledge of real calculus and plane geometry. It is self-contained and covers all the main topics usually treated in a first course on complex analysis. With separate chapters on various construction principles, conformal mappings and Riemann surfaces it goes somewhat beyond a standard programme and leads the reader to more advanced themes.
 
@@ -105,6 +105,14 @@ A collection of proofs that uses diagrammatical reasoning .
 
 ![Cover of Surfaces](./img/surfaces-cover.jpg)
 
+## A Primer on Mapping Class Groups
+### Benson Farb, Dan Margalit
+Copiously illustrated with topological and geometric structures
+
+## [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com/geometry/frontmatter.html)
+### Michael P. Hitchman
+
+
 ---
 
 # Physics
@@ -184,3 +192,18 @@ Albert László Barbarási
 - [Visual Differental Geometry and Forms](https://press.princeton.edu/books/hardcover/9780691203690/visual-differential-geometry-and-forms)
 Tristan Needham
 - [Topology of Numbers](https://pi.math.cornell.edu/~hatcher/TN/TNbook.pdf) - Hatcher
+
+- [The Dripping Faucet as a Model Chaotic System](https://twitter.com/pinkddle/status/1753282213012263200)
+- Mathematical Snapshots — Hugo Steinhaus
+  
+- [Network Science](http://networksciencebook.com/) — Albert László Barbarási
+
+- [Visual Differental Geometry and Forms](https://press.princeton.edu/books/hardcover/9780691203690/visual-differential-geometry-and-forms) — Tristan Needham
+
+- Geometrical Vectors — Gabriel Weinreich
+
+- [The Fourth Dimension](https://en.wikipedia.org/wiki/The_Fourth_Dimension_(book))
+Rudy Rucker
+
+Takes an alternative approach for visualizing vectors. Other books by Weinreich are also worth investigating.
+
