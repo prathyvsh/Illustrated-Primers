@@ -186,6 +186,13 @@ Copiously illustrated with topological and geometric structures
 - [Shadows of Reality: The Fourth Dimension in Relativity, Cubism, and Modern Thought](https://www.amazon.com/gp/product/0300110391)
 - [The Geometrical Foundation of Natural Structure](https://amzn.to/2FxeiHj)
 - [A Geometrical Picturebook](https://amzn.to/3nO96Qu)
+- Mathematical Snapshots by Hugo Steinhaus
+- [Network Science](http://networksciencebook.com/)
+Albert László Barbarási
+- [Visual Differental Geometry and Forms](https://press.princeton.edu/books/hardcover/9780691203690/visual-differential-geometry-and-forms)
+Tristan Needham
+- [Topology of Numbers](https://pi.math.cornell.edu/~hatcher/TN/TNbook.pdf) - Hatcher
+
 - [The Dripping Faucet as a Model Chaotic System](https://twitter.com/pinkddle/status/1753282213012263200)
 - Mathematical Snapshots — Hugo Steinhaus
   
@@ -199,3 +206,4 @@ Copiously illustrated with topological and geometric structures
 Rudy Rucker
 
 Takes an alternative approach for visualizing vectors. Other books by Weinreich are also worth investigating.
+
